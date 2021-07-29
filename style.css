@@ -1,0 +1,44 @@
+.container{margin-bottom: 100px;
+    width: auto;
+   
+}
+.space{
+    margin-bottom: 150px;
+}
+
+.bg-color{
+    background-color: #fceae8;
+    border-radius: 20px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: brown;
+}
+.cat1{background-color: burlywood;}
+.cat2{background-color: rgb(139, 0, 93);}
+.cat3{background-color: rgb(255, 173, 177);}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px chocolate;
+    border-radius: 10px;
+}
+#Contact{
+    height: 300px;
+}
+#Contact h6{
+    color: grey;
+}
+footer{ text-align: center;}
